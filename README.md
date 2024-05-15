@@ -1,5 +1,5 @@
 # arrpc-autostart
-This repository will automatically install arrpc and move a desktop entry to ~/.config/autostart on login, ensuring you do not have to fiddle around to get it running everytime you log in.
+This repository will automatically install arrpc (enabling Rich Presence on Linux Discord options) and move a desktop entry to ~/.config/autostart on login, ensuring you do not have to fiddle around to get it running everytime you log in.
 
 1. Ensure git, node, and npm are installed on your system.
 2. Set install_arrpc.sh to executable.
